@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_robolectric_robolectric",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "robolectric-4.10.2.jar",
+      "size": 167776,
+      "hash": "5JzQB-K5519nqXX3uy-Q0B7N0wSMB-oOBvE3OZ1TbiwC"
+    }
+  ]
+}
